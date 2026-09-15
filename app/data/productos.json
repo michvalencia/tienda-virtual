@@ -4,70 +4,79 @@
     "marca": "Minecraft",
     "nombre": "Pico de diamante",
     "precio": 89900,
-    "foto": "images/pico-diamante.jpg"
+    "foto": "images/Pico diamante.png",
+    "descripcion": "Herramienta esencial de diamante para minar los minerales más resistentes de Creeminecraft."
   },
   {
     "sku": "MC-002",
     "marca": "Minecraft",
     "nombre": "Espada de diamante",
     "precio": 79900,
-    "foto": "images/espada-diamante.jpg"
+    "foto": "images/Espada diamante.png",
+    "descripcion": "Arma filosa de alta durabilidad para defenderte de los creepers y zombis nocturnos."
   },
   {
     "sku": "MC-003",
     "marca": "Minecraft",
     "nombre": "Armadura de diamante",
     "precio": 249900,
-    "foto": "images/armadura-diamante.jpg"
+    "foto": "images/Armadura diamante.png",
+    "descripcion": "Protección completa de diamantes forjados que reduce enormemente el daño recibido."
   },
   {
     "sku": "MC-004",
     "marca": "Minecraft",
     "nombre": "Cubo de lava",
     "precio": 45900,
-    "foto": "images/cubo-lava.jpg"
+    "foto": "images/Cubo lava.png",
+    "descripcion": "Contenedor con lava ardiente, ideal para trampas, forjas o iluminación extrema."
   },
   {
     "sku": "MC-005",
     "marca": "Minecraft",
     "nombre": "Manzana dorada",
     "precio": 29900,
-    "foto": "images/manzana-dorada.jpg"
+    "foto": "images/Manzana dorada.png",
+    "descripcion": "Alimento místico que otorga regeneración de vida y resistencia temporal en combate."
   },
   {
     "sku": "MC-006",
     "marca": "Minecraft",
     "nombre": "Poción de curación",
     "precio": 35900,
-    "foto": "images/pocion-curacion.jpg"
+    "foto": "images/Poción encantada.png",
+    "descripcion": "Brebaje alquímico que restaura instantáneamente tus corazones de salud."
   },
   {
     "sku": "MC-007",
     "marca": "Minecraft",
     "nombre": "Arco encantado",
     "precio": 69900,
-    "foto": "images/arco-encantado.jpg"
+    "foto": "images/Arco encantado.png",
+    "descripcion": "Arma a distancia imbuida con poder de infinidad y retroceso para cazar a lo lejos."
   },
   {
     "sku": "MC-008",
     "marca": "Minecraft",
     "nombre": "Escudo",
     "precio": 54900,
-    "foto": "images/escudo.jpg"
+    "foto": "images/Escudo.png",
+    "descripcion": "Defensa portátil de madera y hierro para bloquear flechas y ataques directos."
   },
   {
     "sku": "MC-009",
     "marca": "Minecraft",
     "nombre": "Bloque de diamante",
-    "precio": 59900,
-    "foto": "images/bloque-diamante.jpg"
+    "precio": 150000,
+    "foto": "images/Bloque de diamante.png",
+    "descripcion": "Bloque compacto equivalente a 9 diamantes, perfecto para decoración o almacenamiento."
   },
   {
     "sku": "MC-010",
     "marca": "Minecraft",
     "nombre": "Huevo de aparición de lobo",
-    "precio": 49900,
-    "foto": "images/huevo-lobo.jpg"
+    "precio": 40000,
+    "foto": "images/Huevo de lobo.png",
+    "descripcion": "Objeto mágico que te permite invocar un lobo fiel para ser domesticado."
   }
 ]
-
