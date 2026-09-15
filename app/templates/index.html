@@ -1,30 +1,21 @@
 {% extends "base.html" %}
 
 {% block titulo %}
-Catálogo de productos
+Catálogo de Productos
 {% endblock %}
 
 {% block contenido %}
+<h2>Catálogo de Creeminecraft</h2>
 
-<h2>Catálogo de productos</h2>
-
-<div class="productos">
-
+<div class="productos-grid">
     {% for producto in productos %}
-
-    <article class="producto">
-
-        <img
-            src="{{ url_for('static', filename=producto.foto) }}"
-            alt="{{ producto.nombre }}"
-        >
-
+    <div class="producto-card">
+        <img src="{{ url_for('static', filename=producto.foto) }}" alt="{{ producto.nombre }}">
         <h3>{{ producto.nombre }}</h3>
-
         <p><strong>Marca:</strong> {{ producto.marca }}</p>
-
         <p><strong>Precio:</strong> ${{ producto.precio }}</p>
-
-        <a href="{{ url_for('main.detalle', sku=producto.sku) }}">
-            Ver detalle
-        </a>
+        <a href="{{ url_for('main.detalle', sku=producto.sku) }}">Ver detalle</a>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
