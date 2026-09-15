@@ -1,0 +1,73 @@
+[
+  {
+    "sku": "MC-001",
+    "marca": "Minecraft",
+    "nombre": "Pico de diamante",
+    "precio": 89900,
+    "foto": "images/pico-diamante.jpg"
+  },
+  {
+    "sku": "MC-002",
+    "marca": "Minecraft",
+    "nombre": "Espada de diamante",
+    "precio": 79900,
+    "foto": "images/espada-diamante.jpg"
+  },
+  {
+    "sku": "MC-003",
+    "marca": "Minecraft",
+    "nombre": "Armadura de diamante",
+    "precio": 249900,
+    "foto": "images/armadura-diamante.jpg"
+  },
+  {
+    "sku": "MC-004",
+    "marca": "Minecraft",
+    "nombre": "Cubo de lava",
+    "precio": 45900,
+    "foto": "images/cubo-lava.jpg"
+  },
+  {
+    "sku": "MC-005",
+    "marca": "Minecraft",
+    "nombre": "Manzana dorada",
+    "precio": 29900,
+    "foto": "images/manzana-dorada.jpg"
+  },
+  {
+    "sku": "MC-006",
+    "marca": "Minecraft",
+    "nombre": "Poción de curación",
+    "precio": 35900,
+    "foto": "images/pocion-curacion.jpg"
+  },
+  {
+    "sku": "MC-007",
+    "marca": "Minecraft",
+    "nombre": "Arco encantado",
+    "precio": 69900,
+    "foto": "images/arco-encantado.jpg"
+  },
+  {
+    "sku": "MC-008",
+    "marca": "Minecraft",
+    "nombre": "Escudo",
+    "precio": 54900,
+    "foto": "images/escudo.jpg"
+  },
+  {
+    "sku": "MC-009",
+    "marca": "Minecraft",
+    "nombre": "Bloque de diamante",
+    "precio": 59900,
+    "foto": "images/bloque-diamante.jpg"
+  },
+  {
+    "sku": "MC-010",
+    "marca": "Minecraft",
+    "nombre": "Huevo de aparición de lobo",
+    "precio": 49900,
+    "foto": "images/huevo-lobo.jpg"
+  }
+]
+
